@@ -1,3 +1,4 @@
+# encoding: US-ASCII
 require 'test/unit'
 require 'lib/iso8583'
 
